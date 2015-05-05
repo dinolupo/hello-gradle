@@ -13,4 +13,4 @@ gradle build
 # update eclipse project to reflect new changes about the Java build path
 gradle eclipse
 ``` 
-and then Refresh you Eclipse Project.
+and then Refresh your Eclipse Project.
